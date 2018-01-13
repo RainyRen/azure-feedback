@@ -14,10 +14,10 @@ Azure在價格上沒有AWS來的實惠，不過兩者都有用多少付多少的
 
 **2.操作介面**
 Azure的操作介面我個人還是很喜歡的，使用起來簡單便捷，想要找什麼功能都能在左邊的功能欄裡找到。自己配置好的虛擬機也都在儀表盤上顯示出來。
-![github](https://github.com/RainyRen/azure_report/image/azure)
+![GitHub set up](https://github.com/RainyRen/azure_report/blob/master/image/aws.png)
 
 相比之下，AWS的面板就有些簡陋，想找一些功能還要花點功夫才行啊
-![github](https://github.com/RainyRen/azure_report/image/aws)
+![GitHub set up](https://github.com/RainyRen/azure_report/blob/master/image/azure.png)
 
 **3.連接方法**
 Azure的可以選擇使用密碼或者ssh-key登錄，我們則一定選擇比較方便的密碼登錄。雖然最安全的一定是使用ssh-key，但是我們本來就不常開機，而且每次開機ip又都不一樣，只要把密碼設定複雜一點，已經足夠安全了。
